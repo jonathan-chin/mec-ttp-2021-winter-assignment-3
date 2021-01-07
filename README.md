@@ -43,6 +43,12 @@ You don't need to be a renaissance artist for this! You can create tremendous wo
 
 Be sure to use the collaborative and git workflows we discussed the last few classes and demonstrated at today's fishbowl. While the initial learning process might be bumpy, you will have a much smoother experience once you've started mastering it.
 
+## Extension
+
+If you want extra practice, try to rework your comic so that panels aren't all the same size. Have some panels twice or triple the width of other panels. For example:
+
+<img src='https://imgs.xkcd.com/comics/wanna_see_the_code.png' />
+
 ## Submission
 
 Submit a single github link before 11:59pm EST on Jan 8, 2021 using the following form. Only one student on your team needs to submit and be sure to tag all the team members when submitting.
